@@ -10,7 +10,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-.container {
+..external-container {
   margin: 10px;
   max-width: 760px;
   background-color: #ffdfdf;
